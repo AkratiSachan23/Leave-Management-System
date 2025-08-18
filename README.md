@@ -4,7 +4,7 @@ A modern, responsive web application for managing employee leave requests built 
 
 ## 🚀 Live Demo
 
-**Deployed Application:** [https://mini-leave-managemen-55r9.bolt.host](https://mini-leave-managemen-55r9.bolt.host)
+**Deployed Application:** [https://leavemanagementsys.netlify.app/](https://leavemanagementsys.netlify.app/)
 
 ## 📋 Table of Contents
 
